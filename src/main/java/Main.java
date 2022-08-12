@@ -66,12 +66,12 @@ public class Main extends TelegramLongPollingBot {
 
     @Override
     public String getBotUsername() {
-        return "anvarsThird_bot";
+        return "username of your bot";
     }
 
     @Override
     public String getBotToken() {
-        return "5374154980:AAGx6z6kIIj0dNG5ppA5LrCQS2K9S93loWc";
+        return "your bot token here";
     }
 
     @Override
